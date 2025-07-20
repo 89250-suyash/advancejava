@@ -1,0 +1,10 @@
+com\sunbeam\pages\FrontControllerServlet.class
+com\sunbeam\entities\BaseEntity.class
+com\sunbeam\service\UserService.class
+com\sunbeam\entities\User.class
+com\sunbeam\dao\UserDao.class
+com\sunbeam\dao\UserDaoImpl.class
+com\sunbeam\service\UserServiceImpl.class
+com\sunbeam\listeners\HibernateSFManager.class
+com\sunbeam\utils\HibernateUtils.class
+com\sunbeam\entities\UserRole.class
